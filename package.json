@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "json_serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "serve:mock": "json-server --watch db.json --port 8080"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "description": ""
+}

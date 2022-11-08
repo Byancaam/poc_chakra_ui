@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "Limpar a casa",
+      "description": "Limpar as casa as sextas-feiras",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Lavar a louça",
+      "description": "Lavar todos os dias",
+      "done": true
+    }
+  ]
+}
